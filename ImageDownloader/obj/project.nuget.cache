@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "W5cG6TVPA4OvRt4fRkC9Al7AICWOq8W9EMJF6yEt9ykY/aBAySJlZruuAk3JbPVaPunqjI8Wk7vftsINmAwUBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bojac\\Projects\\ImageDownloader\\ImageDownloader\\ImageDownloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bojac\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
+    "C:\\Users\\bojac\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\bojac\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\bojac\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\bojac\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\bojac\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\bojac\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
